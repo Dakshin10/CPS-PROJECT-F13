@@ -1,0 +1,35 @@
+Day,Slot,Time Range,Course Code,Course Name,Room,Branch,Semester,Section
+
+Monday,Slot 2, 8:50 am - 9:40 am,23CSE101,Computational Problem Solving,F305,CSE,1st Semester,Section F
+Monday,Slot 3, 9:40 am - 10:30 am,22ADM101,Foundations of Indian Heritage,F305,CSE,1st Semester,Section F
+Monday,Slot 4, 10:45 am - 11:35 am,23MAT107,Calculus,F305,CSE,1st Semester,Section F
+Monday,Slot 5, 11:35 am - 12:25 pm,23EEE104,Introduction to Electrical & Electronics Engineering,F305,CSE,1st Semester,Section F
+Monday,Slot 6, 12:25 pm - 1:15 pm,Mentoring Session,Respective Cabins,F305,CSE,1st Semester,Section F
+Monday,Slot 8, 2:05 pm - 3:45 pm,23MAT107,Calculus MATLAB,F305,CSE,1st Semester,Section F
+Monday,Slot 9, 2:05 pm - 3:45 pm,23MAT107,Calculus MATLAB,F305,CSE,1st Semester,Section F
+Monday,Slot 10, 3:45 pm - 4:35 pm,AVP,Mastery Over Mind,F305,CSE,1st Semester,Section F
+
+Tuesday,Slot 4, 10:45 am - 11:35 am,23EEE104,Introduction to Electrical & Electronics Engineering,F305,CSE,1st Semester,Section F
+Tuesday,Slot 5, 11:35 am - 12:25 am,23EEE104,Introduction to Electrical & Electronics Engineering,F305,CSE,1st Semester,Section F
+Tuesday,Slot 8, 2:05 pm - 2:55 pm,23ENG101,Lab Session Technical Communication,AB1 Language Lab,CSE,1st Semester,Section F
+
+Wednesday,Slot 3, 9:40 am - 10:30 am,22ADM101,Foundations of Indian Heritage,F305,CSE,1st Semester,Section F
+Wednesday,Slot 4, 9:40 am - 10:30 am,23EEE104,Introduction to Electrical & Electronics Engineering,F305,CSE,1st Semester,Section F
+Wednesday,Slot 5, 12:25 - 1:15  pm,23CSE102,COMPUTER HARDWARE ESSENTIALS,F305,CSE,1st Semester,Section F
+Wednesday,Slot 8, 2:05 pm - 2:55 pm,23ENG101,Technical Communication,F305,CSE,1st Semester,Section F
+Wednesday,Slot 9, 2:55 pm - 3:45 pm,23ENG101,Technical Communication,F305,CSE,1st Semester,Section F
+
+Thursday,Slot 3, 9:40 am - 10:30 am,23CSE101,Computational Problem Solving,F305,CSE,1st Semester,Section F
+Thursday,Slot 4, 10:45 am - 11:35 am,AVP,Mastery Over Mind,F305,CSE,1st Semester,Section F
+Thursday,Slot 5, 11:35 am - 12:25 pm,23EEE104,Introduction to Electrical & Electronics Engineering,F305,CSE,1st Semester,Section F
+Thursday,Slot 4, 2:05 Pm - 2:55 PM,23MAT107,Calculus,F305,CSE,1st Semester,Section F
+Thursday,Slot 8, 2:55 pm - 3:45 pm,Lab Session,LAB Computational Problem Solving,CS Lab1,CSE,1st Semester,Section F
+Thursday,Slot 9, 3:45 pm - 4:35 pm,Lab Session,LAB Computational Problem Solving,CS Lab1,CSE,1st Semester,Section F
+
+Friday,Slot 3, 9:40 am - 10:30 am,23CSE101,Computational Problem Solving,F305,CSE,1st Semester,Section F
+Friday,Slot 4, 10:45 am - 11:35 am,23ENG101,Technical Communication,F305,CSE,1st Semester,Section F
+Friday,Slot 5, 11:35 am - 12:25 pm,23ENG101,Technical Communication,F305,CSE,1st Semester,Section F
+Friday,Slot 6, 12:25 pm - 1:15 pm,23MAT107,CALCULUS,F305,CSE,1st Semester,Section F
+Friday,Slot 7, 2:05 pm - 2:55 pm,23CSE102,HARDWARE ESSENTIALS,HARDWARE LAB,CSE,1st Semester,Section F
+Friday,Slot 7, 2:55 pm - 3:45 pm,23CSE102,HARDWARE ESSENTIALS,HARDWARE LAB,CSE,1st Semester,Section F
+
